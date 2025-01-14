@@ -1,0 +1,11 @@
+header { background: url("./img/headerbg.webp") no-repeat center/cover; }
+.bg-trans { background-color: #ffffffbc; }
+.bg-blue { color: #8bc1ec; }
+.fon-blue { background-color: #8bc1ec; }
+#doctor {
+  max-width: 450px;
+  overflow: hidden;
+}
+.vh-50{height: 50vh;}
+#feature1{ background:linear-gradient(#0000006e, #0000006e) , url("/img/feature1.jpg") center/cover ; }
+.vh-20{height: 40px;}

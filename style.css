@@ -9,3 +9,17 @@ header { background: url("./img/headerbg.webp") no-repeat center/cover; }
 .vh-50{height: 50vh;}
 #feature1{ background:linear-gradient(#0000006e, #0000006e) , url("/img/feature1.jpg") center/cover ; }
 .vh-20{height: 40px;}
+#slider1, #slider2 , #slider3 , #slider4 , #slider5  {
+  background-position: center;
+  background-size: cover;
+  background-color: transparent;
+  overflow: hidden;
+  height: 5vh; 
+  width: 5vh;
+  border-radius: 50%;
+}
+#slider1 { background-image: url(./img/sliderImg1.png); }
+#slider2 { background-image: url(./img/sliderImg2.png); }
+#slider3 { background-image: url(./img/sliderImg3.png); }
+#slider4 { background-image: url(./img/sliderImg4.png); }
+#slider5 { background-image: url(./img/sliderImg5.png); }

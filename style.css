@@ -23,3 +23,9 @@ header { background: url("./img/headerbg.webp") no-repeat center/cover; }
 #slider3 { background-image: url(./img/sliderImg3.png); }
 #slider4 { background-image: url(./img/sliderImg4.png); }
 #slider5 { background-image: url(./img/sliderImg5.png); }
+.btn-custom , .btn-custom:hover {
+  background-color: white;
+  border: 2px solid #8bc1ec;;
+  color: #8bc1ec;
+}
+.bg-footer{ background-color: #072135; }
